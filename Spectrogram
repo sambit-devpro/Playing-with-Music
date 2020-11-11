@@ -47,7 +47,3 @@ plt.xlabel("time")
 plt.ylabel("MFCC")
 plt.colorbar()
 plt.show()
-
-
-
-#Video 9 ends
